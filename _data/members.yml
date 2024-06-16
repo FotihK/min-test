@@ -1,0 +1,12 @@
+- name: Alex K
+  bio: > 
+    hahah
+    ahha
+    my string
+  photo: assets/images/bio-photo.jpg
+
+- name: Fotih K
+  bio: >
+    this is a 
+    sample bio
+  photo: /assets/images/bio-photo.jpg
